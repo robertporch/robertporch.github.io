@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Robert Porch"
-  avatar : "/assets/images/headshot.jpg"
+  avatar : "/assets/images/asm_headshot1.jpg"
   bio    : "Microbial ecology, bioinformatics, and education"
   links:
     - label: "GitHub"
