@@ -26,7 +26,7 @@ world's most common urban plant species. In 2019, I was an NSF Research Experien
 scholar in Dr. Britt Koskella's lab at UC Berkeley. During this fellowship, I worked with Dr. Kyle Meyer
 to study how plant neighborhoods influence phyllosphere microbiome assembly.
 
-Outside of academics, I'm interested in running, weightlifting, hiking, backpacking and I'm an avid music listener
+Outside of academics, I enjoy running, weightlifting, hiking, backpacking and I'm an avid music listener
 and self-taught producer.
 
 
