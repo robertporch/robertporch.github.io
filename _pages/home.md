@@ -36,7 +36,7 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-I am a fifth-year PhD Candidate at the University of Oregon in the [Louca lab](https://loucalab.com/).
+I am a fifth-year PhD Candidate at the University of Oregon in the [Louca lab](http://www.loucalab.com/).
 My research is focused on using bioinformatics to develop tools that aid in microbiological research.
 My dissertation work aims to synthesize existing empirical data on microbial metabolic traits, and use
 these data as a central tool in a functional prediction software for OTUs detected in microbiome surveys.
