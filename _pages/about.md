@@ -13,7 +13,7 @@ surveys. As a first-generation college student, I am deeply passionate about sci
 education and empowering students of all backgrounds to view themselves as capable learners of
 biology, statistics, and programming.
 
-I am currently a Biology PhD candidate at the University of Oregon, working in
+I am currently a Biology PhD candidate at the University of Oregon in
 the [Louca lab](https://loucalab.com/). For my dissertation, I am working with a large
 team of undergraduates to build a phenotypic database of metabolic traits of prokaryotes,
 and using these data as a central resource in a software that predicts the functional traits
