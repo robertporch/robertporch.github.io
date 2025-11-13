@@ -41,5 +41,5 @@ My research is focused on using bioinformatics to develop tools that aid in micr
 My dissertation work aims to synthesize existing empirical data on microbial metabolic traits, and use
 these data as a central tool in a functional prediction software for OTUs detected in microbiome surveys.
 <b> I am graduating in Spring of 2026 and seeking postdoctoral/teaching opportunities for Fall of 2026. </b>
-In addition to academics, I will occasionally make [blog posts](http://robertporch.github.io/posts/)
+In addition to science, I will occasionally upload personal [blog posts](http://robertporch.github.io/posts/)
 and updates on [creative projects](http://robertporch.github.io/creativity/) (mostly music-related).
