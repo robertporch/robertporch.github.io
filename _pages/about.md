@@ -23,11 +23,11 @@ In 2020, I earned my B.S. with Honors in Ecology, Evolution, and Natural Resourc
 Statistics at Rutgers University-New Brunswick. For my honors thesis, I worked with 
 [Dr. Myla Aronson](https://sites.rutgers.edu/myla-aronson/) to study the phenotypic traits of the
 world's most common urban plant species. In 2019, I was an NSF Research Experience for Undergraduates
-scholar in Dr. Britt Koskella's lab at UC Berkeley. During this fellowship, I worked with Dr. Kyle Meyer
+scholar in [Dr. Britt Koskella](https://naturesmicrocosm.com/)'s lab at UC Berkeley. During this fellowship, I worked with Dr. Kyle Meyer
 to study how plant neighborhoods influence phyllosphere microbiome assembly.
 
-Outside of academics, I enjoy running, weightlifting, hiking, backpacking and I'm an avid music listener, self-taught 
-music producer, and DJ.
+Outside of academics, I enjoy running, weightlifting, hiking, and backpacking. I'm also an avid music listener, self-taught 
+music producer, and DJ. I host a [music show](https://spinitron.com/KWVA/pl/21645660/Microcosm) on the University of Oregon campus radio, KWVA Eugene 88.1FM.
 
 
 ## Education & Training
