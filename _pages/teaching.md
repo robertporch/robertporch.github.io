@@ -9,7 +9,13 @@ title: "Teaching"
 
 <div class="col-md-7">
 	<ul class="ul-teaching mb-0">
-	
+		<li>
+			<div class="description">
+				<strong>BI380: Evolution</strong> (Winter 2026)<br>
+				University of Oregon - <b> Teaching Assistant </b>
+			</div>
+		</li>
+		
 		<li>
 			<div class="description">
 				<strong>BI 410: Data Visualization</strong> (Spring 2025)<br>
