@@ -5,8 +5,6 @@ permalink: /publications/
 title: "Publications"
 ---
 
-## Publications
-
 <div class="col-md-7">
   <ul class="ul-publications mb-0">
 
