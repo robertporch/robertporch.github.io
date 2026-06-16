@@ -7,16 +7,16 @@ title: "About"
 
 I am a microbial and computational biologist with extensive training in ecology and statistics.
 I am broadly interested in building bioinformatics tools to aid microbiological research. 
-In my graduate research, I am using phylogenetic methods to develop software 
+In my graduate research, I used phylogenetic methods to develop software 
 for predicting functional traits of prokaryotic taxa uncovered in microbiome
 surveys. As a first-generation college student, I am deeply passionate about science 
 education and empowering students of all backgrounds to view themselves as capable learners of
 biology, statistics, and programming.
 
-I am currently a Biology PhD candidate at the University of Oregon in
-the [Louca lab](http://www.loucalab.com/). For my dissertation, I am working with a large
+I am currently a research analyst at the University of Oregon in
+the [Louca lab](http://www.loucalab.com/), where I recently completed by PhD in Biology. For my dissertation, I worked with a large
 team of undergraduates to build a phenotypic database of metabolic traits of prokaryotes,
-and using these data as a central resource in a software that predicts the functional traits
+and used these data as a central resource in a software that predicts the functional traits
 of OTUs in 16S-based microbiome studies.
 
 In 2020, I earned my B.S. with Honors in Ecology, Evolution, and Natural Resources with a minor in
@@ -37,7 +37,7 @@ music producer, and DJ. I host a [music show](https://spinitron.com/KWVA/pl/2164
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              PhD in Biology, expected June 2026
+              PhD in Biology, 2026
               <p>University of Oregon, Institute of Ecology and Evolution</p>
             </div>
           </li>
