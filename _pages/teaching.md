@@ -21,6 +21,16 @@ Ultimately, my teaching philosophy combines strategies that support students in 
 
 <div class="col-md-7">
 	<ul class="ul-teaching mb-0">
+
+		<li>
+			<div class="description">
+				<strong>BIOL 201: Introductory Microbiology (*Spring 2027)<br>
+				Pacific Lutheran University - <b> Visiting Assistant Professor </b><br>
+			<em>*Upcoming position</em>
+			</div>
+			
+		</li>
+		
 		<li>
 			<div class="description">
 				<strong>BI380: Evolution</strong> (Winter 2026)<br>
